@@ -21,6 +21,8 @@ Observe how Zhang's algo for planar points is different from DLT!!!
 Also, Lens distortion models can also be included in the solving. Check last part of video for this info. IMPORTANT!!! 
 
 GUI for visualizing checkerboard transform by changing intrinsic and extrinsic parameters!! ([repository](https://github.com/anuragvvworkspace/VirtualCam_camera_calibration))
+![image](https://github.com/vvanurag/camera_calibration_project/assets/22678131/49541d60-6915-4752-bb11-1ed92ba3a5be)
+
 
 [Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains 
 ![image](https://github.com/vvanurag/camera_calibration_project/assets/22678131/6ca1de12-1d39-47f0-8fec-2a08efaf7815)
