@@ -17,6 +17,7 @@ Check out [Cyrill Stachniss Zhang method](https://www.youtube.com/watch?v=-9He7N
 Cyrill says to solve the x = PX equation, If intrinsics are known, we need 6 unknowns i.e 3 points to solve. If intrinsics are unknown, then its 11 unknowns in P and needs 5.5 \~= 6 points
 Cyrill in DLT method shows how we can solve for p with SVD and also how p can be decomposed into K|R using QR decomposition.
 This method gives degenerate results if the 3D points are planar!!! 
+Observe how Zhang's algo for planar points is different from DLT
 
 
 [Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains 
