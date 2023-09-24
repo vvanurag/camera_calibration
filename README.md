@@ -6,6 +6,8 @@ I forked a camera_calibration repository that gives a well structured implementa
 
 THese Telegram articles [Part1](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-i)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-i [Part2](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-ii)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-ii [Part3](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-iii)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-iii Explains distortions and sites the papers that mention the distortions and the algorithms
 
+Try to understand the mathematical modeling of the the lens effcts including focal length, dstortions(radial, tangential, ect), ect.
+
 
 Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
