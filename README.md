@@ -12,7 +12,10 @@ Try to understand the mathematical modeling of the the lens effcts including foc
 Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
 
-[Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains Zhang's Algorithm which is default implementation in opencv goes by the function name findCheckercorners. anuragvvworkspace has some example implementations of the algorithm. You should know how to quickly write this algorithm.
+[Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains 
+![image](https://github.com/vvanurag/camera_calibration_project/assets/22678131/6ca1de12-1d39-47f0-8fec-2a08efaf7815)
+
+Zhang's Algorithm which is default implementation in opencv goes by the function name findCheckercorners. anuragvvworkspace has some example implementations of the algorithm. You should know how to quickly write this algorithm.
 anuragvvworkspace has GUI implementation 
 
 
@@ -20,4 +23,6 @@ anuragvvworkspace has GUI implementation
 ***Need to implement some deep learning camera calibration and understand its working.
 
 Also have to explore multi-camera calibration and multi-sensor calibration (like LiDAR-camera calibration)
+
+
 
