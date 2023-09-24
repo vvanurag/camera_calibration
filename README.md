@@ -17,3 +17,5 @@ anuragvvworkspace has GUI implementation
 [Deep Learning for Camera Calibration and Beyond: Survey](https://arxiv.org/pdf/2303.10559.pdf) mentions some previous survey papers and sumeries and tabulates deep learning methods for calibration.
 ***Need to implement some deep learning camera calibration and understand its working.
 
+Also have to explore multi-camera calibration and multi-sensor calibration (like LiDAR-camera calibration)
+
