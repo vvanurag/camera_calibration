@@ -9,8 +9,9 @@ THese Telegram articles [Part1](https://www.tangramvision.com/blog/camera-modeli
 Try to understand the mathematical modeling of the the lens effcts including focal length, dstortions(radial, tangential, ect), ect.
 
 
-Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
+[Cyrill Stachniss mentions DLT method](https://www.youtube.com/watch?v=3NcQbZu6xt8) for Camera Intrinsics and extrinsics combined. 
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
+Check out [Cyrill Stachniss Zhang method](https://www.youtube.com/watch?v=-9He7Nu3u8s) also
 
 [Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains 
 ![image](https://github.com/vvanurag/camera_calibration_project/assets/22678131/6ca1de12-1d39-47f0-8fec-2a08efaf7815)
