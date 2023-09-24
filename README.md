@@ -8,6 +8,11 @@ THese Telegram articles [Part1](https://www.tangramvision.com/blog/camera-modeli
 
 [Deep Learning for Camera Calibration and Beyond: Survey](https://arxiv.org/pdf/2303.10559.pdf) mentions some previous survey papers and sumeries and tabulates deep learning methods for calibration.
 
+Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
+Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
+
+[Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains Zhang's Algorithm which is default implementation in opencv.
+
 
 
 
