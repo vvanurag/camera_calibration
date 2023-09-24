@@ -11,8 +11,8 @@ THese Telegram articles [Part1](https://www.tangramvision.com/blog/camera-modeli
 Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
 
-[Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains Zhang's Algorithm which is default implementation in opencv.
-
+[Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains Zhang's Algorithm which is default implementation in opencv goes by the function name findCheckercorners. anuragvvworkspace has some example implementations of the algorithm. You should know how to quickly write this algorithm.
+anuragvvworkspace has GUI implementation 
 
 
 
