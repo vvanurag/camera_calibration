@@ -13,6 +13,8 @@ Try to understand the mathematical modeling of the the lens effcts including foc
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
 Check out [Cyrill Stachniss Zhang method](https://www.youtube.com/watch?v=-9He7Nu3u8s) also
 
+Cyrill says to solve the x = PX equation, If intrinsics are known, we need 6 unknowns i.e 3 points to solve. If intrinsics are unknown, then its 11 unknowns in P and needs 5.5 \~= 6 points
+
 [Purdue notes Lecture 21](https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf)https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf explains 
 ![image](https://github.com/vvanurag/camera_calibration_project/assets/22678131/6ca1de12-1d39-47f0-8fec-2a08efaf7815)
 
