@@ -6,7 +6,6 @@ I forked a camera_calibration repository that gives a well structured implementa
 
 THese Telegram articles [Part1](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-i)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-i [Part2](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-ii)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-ii [Part3](https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-iii)https://www.tangramvision.com/blog/camera-modeling-exploring-distortion-and-distortion-models-part-iii Explains distortions and sites the papers that mention the distortions and the algorithms
 
-[Deep Learning for Camera Calibration and Beyond: Survey](https://arxiv.org/pdf/2303.10559.pdf) mentions some previous survey papers and sumeries and tabulates deep learning methods for calibration.
 
 Cyrill Stachniss mentions DLT method for Camera Intrinsics and extrinsics combined. 
 Need to know its functioning. I think its formulating projection matrix and solving it linearly by using Pseudo inverse method.
@@ -15,6 +14,6 @@ Need to know its functioning. I think its formulating projection matrix and solv
 anuragvvworkspace has GUI implementation 
 
 
-
-
+[Deep Learning for Camera Calibration and Beyond: Survey](https://arxiv.org/pdf/2303.10559.pdf) mentions some previous survey papers and sumeries and tabulates deep learning methods for calibration.
+***Need to implement some deep learning camera calibration and understand its working.
 
